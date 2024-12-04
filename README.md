@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main.gif" alt="logo" width="450" />
+  <img src="https://github.com/asaldelkhosh/asaldelkhosh/blob/main/main.gif" alt="logo" width="450" />
 </p>
 
 <br />
